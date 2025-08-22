@@ -7,7 +7,8 @@ A personal portfolio website built with React + Sanity.
 - Tailwind CSS
 
 ## 🌍 Live Demo
-[Visit my portfolio]([https://yourlink.vercel.app](https://najib-portfolio-dev.netlify.app/))
+[Visit my portfolio](https://najib-portfolio-dev.netlify.app/)
+
 
 ## 📸 Screenshot
 ![Portfolio Screenshot](screenshot.png)
